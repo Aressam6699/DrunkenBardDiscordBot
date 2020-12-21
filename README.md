@@ -1,1 +1,3 @@
 # DrunkenBardDiscordBot
+
+Discord bot code.
